@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiendao2308&label=Profile%20views&color=0e75b6&style=flat" alt="thiendao2308" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thiendao2308" alt="thiendao2308" /></a> </p>
-
 - 🔭 I’m currently working on [Grab (web order food)](https://github.com/thiendao2308/Grab-Food)
 
 - 👯 I’m looking to collaborate on [Emart (web supermarket)](https://github.com/ttphat204/CNPM_NC_18)
@@ -26,7 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiendao2308&show_icons=true&locale=en&layout=compact" alt="thiendao2308" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiendao2308&show_icons=true&locale=en" alt="thiendao2308" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiendao2308&" alt="thiendao2308" /></p>
-
-
