@@ -15,7 +15,7 @@
 </p>
 
 <div class="bg-gray-900 flex justify-center items-center h-screen">
-    <div class="w-4/5 max-w-lg rounded-lg overflow-hidden shadow-lg">
+    <div class="flex justify-center items-center w-4/5 max-w-lg rounded-lg overflow-hidden shadow-lg ml-10">
         <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coding GIF" class="w-full h-auto">
     </div>
 </div>
