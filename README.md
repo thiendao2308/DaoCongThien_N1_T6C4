@@ -11,8 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Ch%E1%BA%A1m+%C4%91%E1%BA%BFn+%C6%B0%E1%BB%9Bc+m%C6%A1%2C+t%E1%BB%ABng+%C4%91i%E1%BB%83m+%E1%BA%A3nh+m%E1%BB%99t.;Bi%E1%BA%BFn+gi%E1%BA%A5c+m%C6%A1+th%C3%A0nh+hi%E1%BB%87n+th%E1%BB%B1c%2C+t%E1%BB%ABng+b%C6%B0%E1%BB%9Bc+m%E1%BB%99t." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Reaching+for+dreams%2C+one+pixel+at+a+time.;Turning+dreams+into+reality%2C+step+by+step." alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img alt="Coding" width="60%" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
