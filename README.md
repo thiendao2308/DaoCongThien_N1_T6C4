@@ -14,11 +14,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Making+dreams+real%2C+one+pixel+at+a+time.;Dreams+to+reality%2C+step+by+step." alt="Typing SVG" />
 </p>
 
-<div class="bg-gray-900 flex justify-center items-center h-screen">
-    <div class="flex justify-center items-center w-4/5 max-w-lg rounded-lg overflow-hidden shadow-lg ml-10">
-        <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coding GIF" class="w-full h-auto">
-    </div>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coding GIF" class="w-full h-auto">
+</p>
 
 ---
 
