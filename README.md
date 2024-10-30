@@ -15,7 +15,20 @@
 </p>
 
 <div class="image-container">
-  <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="Scientific Image">
+  <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="IT Image">
+  <div class="code-effect">
+    <!-- Các cột ký tự để tạo hiệu ứng -->
+    <div class="code-column">101010101010</div>
+    <div class="code-column">001101101011</div>
+    <div class="code-column">110010010101</div>
+    <div class="code-column">010101010101</div>
+    <div class="code-column">111000100101</div>
+    <div class="code-column">101010111010</div>
+    <div class="code-column">011010101010</div>
+    <div class="code-column">100101010100</div>
+    <div class="code-column">010101010110</div>
+    <div class="code-column">101010101010</div>
+  </div>
 </div>
 
 ---
