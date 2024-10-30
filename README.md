@@ -15,7 +15,7 @@
 </p>
 
 <div class="image-container">
-  <img src="[[https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg](https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif)](https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif)" alt="IT Image">
+  <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="Scientific Image">
 </div>
 
 ---
