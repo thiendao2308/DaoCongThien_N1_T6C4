@@ -81,7 +81,7 @@
 ## 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ttphat204&theme=algolia" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thiendao2308&theme=algolia" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -89,9 +89,9 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ttphat204&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttphat204&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ttphat204&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thiendao2308&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiendao2308&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiendao2308&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
 ---
